@@ -1,0 +1,16 @@
+{
+	"name": "com.liamederzeel.graph",
+	"displayName": "Graph",
+	"version": "0.0.1",
+	"unity": "2018.3.5f1",
+	"license": "MIT",
+	"description": "Simple graph lib I wrote so you don't have to.",
+	"keywords": [
+		"graph",
+		"node",
+		"vertex",
+		"graph theory",
+		"unity"
+	],
+	"category": "Unity"
+}
